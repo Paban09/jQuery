@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:10px;
+}
+
+.first-paragraph{
+    border:2px solid red;
+    margin-top: 10px;
+}
+
+#div1{
+    margin:auto;
+    
+    border: 3px black dotted;
+    font-size: 15px;
+    background-color: cadetblue;
+    position: relative;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+#div2{
+    margin:auto;
+    
+    border: 3px black dotted;
+    font-size: 15px;
+    background-color: yellow;
+    position: relative;
+    box-sizing: border-box;
+    margin-top: 10px;
+
+}
+
+#img3{
+    height: 250px;
+    width: 250px;
+    opacity: 0.4;
+    /* position: absolute; */
+    /* position: ; */
+}
